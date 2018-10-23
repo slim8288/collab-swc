@@ -1,5 +1,5 @@
 ---
-title: "SWC Cllaboration: Stephanie and Yang "
+title: "SWC Collaboration: Stephanie and Yang "
 output: html_document
 ---
 
